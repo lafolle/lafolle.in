@@ -1,0 +1,26 @@
+{
+  "name": "lafolle.in",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lafolle/lafolle.in",
+  "authors": [
+    "lafolle <fghjklp@gmail.com>"
+  ],
+  "description": "personal site",
+  "keywords": [
+    "lafolle",
+    "personal",
+    "blog"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
